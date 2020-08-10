@@ -1,5 +1,5 @@
 # Fraud-Transaction-Detection
-Implementation of a predictive model for predicting fradu transactions
+Implementation of a predictive model for predicting fraud transactions.
 
 Purpose of this project is to build a predictive model to identify or predict the abnormal or fraud transactions to avoid future financial loss as well as to improve the financial security for the customers. 
 Implemented a classification model(more than 90% accuracy) to predict fraud transactions based on customers’ transaction history, purchase patterns. 
