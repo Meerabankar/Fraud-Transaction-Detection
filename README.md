@@ -6,4 +6,4 @@ Implemented a classification model(more than 90% accuracy) to predict fraud tran
 Model is trained on PCA features as data is confidential and is implemented with LDA, XGBoost, SVM, LR, Random Forests and KNN machine learning algorithms.
 And the models are evaluated with F1-Score and Accuracy and comapred the results of all models to get the best model.
 
-This project explains step by step procedure to implement a predictive model to predect fraud transactions.
+This project explains step by step procedure to implement a predictive model to predict fraud transactions.
